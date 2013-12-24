@@ -1,0 +1,78 @@
+/*GO*/
+/**INICIAL*/	
+	
+					function firstStage1(){
+						
+							var inicialStage = document.getElementById("firstStage");
+					TweenLite.to(inicialStage,.4, {top:"0%",
+				                       ease:Elastic.easeInOut});
+						
+
+						/* EDIFICIOS*/
+							var firstBgSecond=document.getElementById("firstBgSecond");
+							TweenLite.to(firstBgSecond, .59, {top:"14%",delay:0.5});						
+						
+						/* SHINE*/
+							var firstBgElement3=document.getElementById("firstBgElement3");
+							TweenLite.to(firstBgElement3, .59, {bottom:"36%",delay:0.5});
+						/*TORTAS*/	
+							var firstMiddleElement1=document.getElementById("firstMiddleElement1");
+							TweenLite.to(firstMiddleElement1, .45, {bottom:"25%",delay:0.5});
+						/*PADRE*/
+							var firstMiddleElement2=document.getElementById("firstMiddleElement2");
+							TweenLite.to(firstMiddleElement2, .59, {top:"44%",delay:0.5});
+						/*TACOS DE CANASTA*/	
+							var firstMiddleElement3=document.getElementById("firstMiddleElement3");
+							TweenLite.to(firstMiddleElement3, .9, {bottom:"25%",delay:0.5});
+						/*PEPE TACOS*/
+							var firstMiddleElement4=document.getElementById("firstMiddleElement4");
+							TweenLite.to(firstMiddleElement4, 1, {bottom:"30%",delay:0.5});
+					
+						
+						/*PASTO*/	
+							var firstBgElement2=document.getElementById("firstBgElement2");
+							TweenLite.to(firstBgElement2, .0009, {bottom:"0%",delay:0.5});	
+						/**/	
+				}
+	
+/*TERMINA INICIAL*/	
+
+/*BACK*/
+/**INICIAL*/	
+	
+					function firstStage2(){
+						
+							var inicialStage = document.getElementById("firstStage");
+					TweenLite.to(inicialStage,.4, {top:"0%",
+				                       ease:Elastic.easeInOut});
+						
+
+						/* EDIFICIOS*/
+							var firstBgSecond=document.getElementById("firstBgSecond");
+							TweenLite.to(firstBgSecond, .59, {top:"14%",delay:0.5});						
+						
+						/* SHINE*/
+							var firstBgElement3=document.getElementById("firstBgElement3");
+							TweenLite.to(firstBgElement3, .59, {bottom:"36%",delay:0.5});
+						/*TORTAS*/	
+							var firstMiddleElement1=document.getElementById("firstMiddleElement1");
+							TweenLite.to(firstMiddleElement1, .45, {bottom:"25%",delay:0.5});
+						/*PADRE*/
+							var firstMiddleElement2=document.getElementById("firstMiddleElement2");
+							TweenLite.to(firstMiddleElement2, .59, {top:"44%",delay:0.5});
+						/*TACOS DE CANASTA*/	
+							var firstMiddleElement3=document.getElementById("firstMiddleElement3");
+							TweenLite.to(firstMiddleElement3, .9, {bottom:"25%",delay:0.5});
+						/*PEPE TACOS*/
+							var firstMiddleElement4=document.getElementById("firstMiddleElement4");
+							TweenLite.to(firstMiddleElement4, 1, {bottom:"30%",delay:0.5});
+					
+						
+						/*PASTO*/	
+							var firstBgElement2=document.getElementById("firstBgElement2");
+							TweenLite.to(firstBgElement2, .0009, {bottom:"0%",delay:0.5});	
+						/**/	
+				}
+	
+/*TERMINA INICIAL*/	
+/*TERMINA INICIAL*/	
