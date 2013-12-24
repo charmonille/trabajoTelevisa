@@ -42,10 +42,11 @@ body {
     height: auto;
     left: 8%;
     width: 18%;
+    opacity: .1;
 }
 #s1bg3 {
     height: auto;
-    top: 8%;
+    top: -58%;
     width: 29%;
 }
 #s1bg4 {
